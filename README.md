@@ -227,5 +227,4 @@ This project is licensed under the MIT License.
 
 
 
-Just tell me!
-# online_course_platform
+
